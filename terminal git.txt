@@ -1,0 +1,42 @@
+npm install
+npm audit   o   npm audit fix
+npm run serve
+npm i
+
+nodemon app
+# node app (app igual a nombre del archivo js)
+
+
+
+
+
+
+
+
+
+npm install express ejs mysql nodemon
+
+node app
+
+
+https://boxicons.com/
+https://getbootstrap.com/
+
+nodemon : No se puede cargar el archivo C:\Users\mipc\AppData\Roaming\npm\nodemon.ps1 porque la ejecución de scripts está deshabilitada en este sistema. Para 
+obtener más información, consulta el tema about_Execution_Policies en (un link de ayuda)
+
+
+Hola tengo dos soluciones:
+
+1) esta opcion da hace algunos cambios creo que de seguridad por lo que te mostrata un mensaje de alerta
+
+Abra powerShell como administrador
+Ingrese set-ExecutionPolicy RemoteSigned
+
+obiamente que nos muestre esos mensajes de alerta no da confianza asi que me salte esa opcion por que prefiero algo que conozca mejor 
+
+2) esta opcion es mas segura:  solo tienes que ir a la direcoin que te muestra y borrar el nodemon.ps1
+
+Ejemplo: C:\Users\mipc\AppData\Roaming\npm\ abrir carpeta y borrar esto nodemon.ps1
+
+listo espro los ayude si les sale ese error, saludos.
