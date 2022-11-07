@@ -1,0 +1,15 @@
+table, tbody, body, tr, td, tr.odd{
+    color:white
+}
+a{
+    color:white
+}
+
+.table-striped>tbody>tr:nth-of-type(odd) {
+    --bs-table-accent-bg: var(--bs-table-striped-bg);
+    color: white;
+}
+.table,th,tr{
+
+    background-color:#1E2126 ;
+}

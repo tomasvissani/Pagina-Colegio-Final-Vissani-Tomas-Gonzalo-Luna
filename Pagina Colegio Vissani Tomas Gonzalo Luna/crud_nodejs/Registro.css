@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans'; 
+    background:#16191C;
+}
+
+.logo{
+    width: 10%;
+    float: right;
+    
+}
+
+.mitad-cuerpo div{
+    display: inline-block;
+}
+input{
+    background: #1E2126;
+    border-radius: 15px;
+    width: 290px;
+    height: 40px;
+    margin-top: 30px;
+    color: white;
+    font-size: 20px;
+}
+h4{
+    color: #C4C4C4;
+    font-size: 16px;
+    margin-left: 10px;
+}
+
+
+.mitad-izquierdo{
+    width:50%;
+    height: 100%;
+    margin-top: 100px;
+}
+
+h2{
+    padding: 30px 150px;
+    color: white;
+}
+
+.mitad-input{
+    margin-left:150px ;
+   
+}
+.mitad-input div{
+    padding-top: 25px;
+}
+
+
+
+.mitad-derecho{
+    width:40%;
+    height: 100%;
+    float: right;
+    margin-top: 150px;
+}
+.mitad-input2 div{
+    padding: 20px;
+}
+
+.boton-register{
+    background: red;
+    color: white;
+    margin-top: 50px;
+    margin-left: 25px;
+    font-weight: bold;
+
+}
+
+.boton-register:hover{
+    background-color: rgb(105, 7, 7);
+}

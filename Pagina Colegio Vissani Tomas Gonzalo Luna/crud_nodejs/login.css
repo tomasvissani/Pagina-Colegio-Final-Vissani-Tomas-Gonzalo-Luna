@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans'; 
+}
+
+
+.imagen-colegio{
+    width: 100%;
+    height: 100.1%;
+    position: absolute;
+    z-index: -1;
+}
+
+.container div{
+    display: inline-block;
+}
+
+.container-izquierdo{
+    width: 50%;
+}
+.titulo{
+
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+
+}
+.logo{
+    width: 20%;
+    position:relative;
+    top: 350px;
+}
+
+
+
+
+
+
+
+.container-derecho{
+    width: 49%;
+    position: absolute;
+    margin-top: 130px;
+}
+
+.BienvenidoDeNuevo{
+    margin-left: 240px;
+    color: white;
+    font-size: 30px;
+    margin-top: -10px;
+}
+
+
+
+
+
+
+
+
+.container-inputs {
+    margin-left:150px;
+    margin-top: 50px;
+    color: darkgray
+    
+}
+
+input{
+    background: gray;
+    border-radius: 7px;
+    font-size: 30px;
+    color: white;
+
+}
+input .value{
+    color: red;
+}
+
+h4{
+    color: darkgray;
+}
+
+.Contra{
+    margin-top: 40px;
+    margin-right: 340px;
+}
+
+.OlvidasteContra{
+    margin-left: 20px;
+    color: darkgray ;
+    text-decoration: none;
+}
+
+.IniciarSesion{
+    
+    background: red;
+    padding: 10px 135px;
+    margin-left:20px;
+    margin-top: 30px;
+    font-weight: bold;
+    border-radius: 15px;
+    color: white
+
+}
+.IniciarSesion:hover{
+    background-color: rgb(105, 7, 7);
+}
+
+.IngresarConGoogle:hover{
+    background-color: rgb(105, 7, 7);
+}
+
+.IngresarConGoogle{
+    color: white;
+    text-decoration: none;
+    background: red;
+    border: 2px solid black;
+    font-weight: bold;
+    margin-top: 30px;
+    font-size: 25px;
+    padding: 10px 40px;
+    padding-left: 100px;
+    border-radius: 15px;
+
+}
+
+.IngresarConGoogle:hover{
+    background-color: rgb(105, 7, 7);
+}
+
+.BotonGoogle{
+    margin-top: 40px;
+    margin-left: 165px;
+}
+.LogoGoogle{
+    position: absolute;
+    top: 350px;
+    left: 180px;
+    width: 6%;
+}

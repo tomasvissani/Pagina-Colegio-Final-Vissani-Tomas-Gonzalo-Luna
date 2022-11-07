@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: #1E2126;
+}
+
+
+.titulo{
+    margin-top: 100px;
+    margin-left: 50px;
+    font-size: 50px;
+}
+
+
+.alumno{
+    margin-left: 50px;
+}
+
+
+.Seleccionar{
+    background: red;
+    padding: 4px 30px; 
+    border-radius: 10%;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    top: -20px;
+    left: 100px;
+    margin-left: 50px;
+    font-weight: bold;
+}
+.Seleccionar:hover{
+    background-color: rgb(105, 7, 7);
+}
+
+
+.trimestres h2{
+    display: inline-block;
+    padding-left: 40px;
+    position: relative;
+    left: 250px;
+}
+
+
+.materias h2{
+    margin-top: 13px;
+    margin-left: 50px;
+}
+.materias{
+    margin-top: -40px;
+    margin-left: 50px;
+}
+
+.Matematica input{
+    width: 40px;
+    position: relative;
+    top: -220px;
+    left: 288px;
+    text-align: center;
+    background: white;
+    border-radius: 20%;
+}
+
+
+
+.Lengua input{
+    width: 40px;
+    position: relative;
+    top: -198px;
+    left: 288px;
+    text-align: center;
+    background: white;
+    border-radius: 20%;
+}
+
+
+.Ingles input{
+    width: 40px;
+    position: relative;
+    top: -180px;
+    left: 288px;
+    text-align: center;
+    background: white;
+    border-radius: 20%;
+}
+
+
+.Tecnologia input{
+    width: 40px;
+    position: relative;
+    top: -160px;
+    left: 288px;
+    text-align: center;
+    background: white;
+    border-radius: 20%;
+}
+
+
+.Teatro input{
+    width: 40px;
+    position: relative;
+    top: -140px;
+    left: 288px;
+    text-align: center;
+    background: white;
+    border-radius: 20%;
+}
+
+.EducacionFisica input{
+    width: 40px;
+    position: relative;
+    top: -120px;
+    left: 288px;
+    text-align: center;
+    background: white;
+    border-radius: 20%;
+}
+
+
+.c4{
+    margin-left: 60px;
+}
+.c5{
+    margin-left: 70px;
+}
+
+.c8{
+    margin-left: 60px;
+}
+.c9{
+    margin-left: 70px;
+}
+    
+.c12{
+    margin-left: 60px;
+}
+.c13{
+    margin-left: 80px;
+}
+
+.AgregarMateria{
+    background: red;
+    padding: 4px 30px; 
+    border-radius: 10%;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    top: -40px;
+    left: 50px;
+    margin-left: 50px;
+    font-weight: bold;
+}
+.AgregarMateria:hover{
+    background-color: rgb(105, 7, 7);
+}
+
+
+.ListaDeCursos{
+    background: red;
+    padding: 4px 30px; 
+    border-radius: 10%;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    top: -10px;
+    left: 50px;
+    margin-left: 50px;
+    font-weight: bold;
+}
+.ListaDeCursos:hover{
+    background-color: rgb(105, 7, 7);
+}
+
+.AlumnosPorCurso{
+    background: red;
+    padding: 4px 30px; 
+    border-radius: 10%;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    top: 30px;
+    left: 50px;
+    margin-left: 50px;
+    font-weight: bold;
+}
+.AlumnosPorCurso:hover{
+    background-color: rgb(105, 7, 7);
+}
+
+
+.ModificarMateria{
+    background: red;
+    padding: 4px 30px; 
+    border-radius: 10%;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    top: -58px;
+    left: 10px;
+    margin-left: 300px;
+    font-weight: bold;
+}
+.ModificarMateria:hover{
+    background-color: rgb(105, 7, 7);
+}
+
+.EliminarMateria{
+    background: red;
+    padding: 4px 30px; 
+    border-radius: 10%;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    top: -76px;
+    left: 300px;
+    margin-left: 250px;
+    font-weight: bold;
+}
+.EliminarMateria:hover{
+    background-color: rgb(105, 7, 7);
+}
